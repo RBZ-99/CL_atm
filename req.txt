@@ -1,0 +1,10 @@
+scikit-learn
+numpy
+pillow
+
+# utils (others)
+colorama
+tqdm
+lmdb
+requests
+fake-useragent
